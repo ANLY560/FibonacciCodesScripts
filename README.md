@@ -1,2 +1,2 @@
-# ANLY560Hamner
-This repository is intended to keep all the codes and data for my ANLY 560 course.  Feel free to fork as desired!
+# ANLY560/FibonacciCodesScripts
+This repository is intended to keep all the codes and scripts for running the Fibonacci Sequence using Python, JavaScript, R, and Java.
